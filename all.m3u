@@ -1,0 +1,110 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 [lag]
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDAuMjMiLCJjbWNkIjoiIiwiZXhwIjoxNzA4NjQxMzY2LCJnaWQiOiIxYmRlZmMwMS1kMWZmLTRiZjMtOWZhYy02MTI2OGE2ZDc1M2MiLCJpYXQiOjE3MDg2MjY5NjYsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MjAwMDAwMCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiIxYmRlZmMwMS1kMWZmLTRiZjMtOWZhYy02MTI2OGE2ZDc1M2MifQ.TitFj-wYtGeUiNH_G4e633fpUd48NH6ZwPgUo2wtQ4E/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png",FRANCE SÉRIES
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frsr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 INFORMATION",BFM TV
+https://bfmtvalive1-a.akamaihd.net/rdc5d0dddf67d4626adca4f8ff2d89b39/eu-central-1/876450610001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
+https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-ad-hd/hls-ios-fhd-clair/cnews-clair-ad-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/cnews.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO
+https://ythls.armelin.one/channel/UCO6K_kkdP-lnSCiO3tPx7WA.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV
+https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/gnrcpltfrm/lemedia.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR
+https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR
+https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png",TV5MONDE INFO
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR
+https://new.cache-stream.workers.dev/stream/UCCCPCZNChQdGa9EkATeye4g/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PmmR72J/lcp.png",LCP-AN 24H
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/lcpan/lcp1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PmmR72J/lcp.png",PUBLIC-SÉNAT 24H
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/pblsnt/pblsnt.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png",20 MINUTES TV IDF
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sq11nQ1/rdicanada.png",RDI CANADA
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 PARIS IDF
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fidf.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 PROVENCE ALPES
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpra.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 CÔTE D'AZUR
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpca.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 RHÔNE ALPES
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frha.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 ALPES
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/falp.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 AUVERGNE
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fauv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 BOURGOGNE
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbog.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 FRANCHE COMPTÉ
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/ffrc.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 CENTRE
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fctr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 CORSE VÍA STELLA
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fcrs.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 ALSACE
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fals.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 CHAMPAGNE
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fchg.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 LORRAINE
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/flor.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 NORD PDC
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpdc.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 PICARDIE
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpcd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 B.NORMANDIE
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbnr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 H.NORMANDIE
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fhnr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 AQUITAINE
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/faqt.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 NOA
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fnoa.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 LIMOUSIN
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/flms.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 POITOU CHARENTES
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpch.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 MIDI PYRÉNÉES
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fmpr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 LANGUEDOC
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fldr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 PAYS LOIRE
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpdl.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 BRETAGNE
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbre.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9VrjLFT/tv7b.png",TV7 BORDEAUX
+https://lives.digiteka.com/stream/17c6dea8-fb3f-46fe-b170-2ac88cd5667b/index.m3u8
